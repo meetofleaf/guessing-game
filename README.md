@@ -10,5 +10,4 @@ Either way a number of tries is incremented.
 When he exits a ratio of 'correct guesses':'tries' is presented.
 
 
-
 ENJ0Y THE G4ME =)
